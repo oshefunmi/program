@@ -1,0 +1,36 @@
+body{
+    background-image: none;
+    background-image:url(images.png) ;
+    background-image: linear-gradient();
+    background-position: center;
+    background-color: rgb(240, 110, 4);
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+header{
+    background-image: linear-gradient(rgba(243, 73, 5, 0.5),rgba(124, 53, 6, 0.75));
+    padding: 10px ;
+    border: rgb(129, 7, 17) solid;
+    position: sticky;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+#class{
+    padding: 50px;
+    color: #501005;
+}
+
+.lists{
+    padding: 20px;
+    color: #470c02;
+}
+
+footer{
+    padding: 80px;
+}
+
